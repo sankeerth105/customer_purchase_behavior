@@ -201,5 +201,5 @@ Sankeerth Nakshatram
 
 Aspiring Data Analyst
 
-Skills: Python | SQL | PostgreSQL | Power BI | Excel | Data Visualization | Business Analytics
+Skills: Python | SQL | PostgreSQL | MySQL | Power BI | Excel | Data Visualization | Business Analytics 
 
