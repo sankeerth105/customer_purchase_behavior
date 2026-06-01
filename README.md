@@ -1,4 +1,3 @@
-# customer_purchase_behavior
 # Customer Purchase Behavior & Sales Insights Analysis
 
 ## 📌 Project Overview
